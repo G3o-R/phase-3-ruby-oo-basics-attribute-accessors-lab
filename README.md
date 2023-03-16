@@ -288,3 +288,5 @@ Run the test suite to get started. You'll be writing your code in the
    cat's name.
 3. Write a method, `#meow`, that outputs "meow!" to the terminal using the
    `puts` method when called on an instance of `Cat`.
+
+https://github.com/G3o-R/phase-3-ruby-oo-basics-attribute-accessors-lab
